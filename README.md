@@ -7,3 +7,9 @@ destination ports, and attack types.</br>
 We will use K-Means, Normalized Cut and DB-SCAN then evaluate the models based on their ability to detect network anomalies
 accurately.
 
+
+## Contributors:
+ - [Salma Barakat](https://github.com/salma-barakat)
+ - [Yasmine Eshra](https://github.com/yasmin-ashraf-eshra)
+ - [Habiba Hossam](https://github.com/habiba-hossam)
+
